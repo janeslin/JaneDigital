@@ -1,5 +1,5 @@
 <?php
 
-echo "Jane Digital";
+
 
 ?>
